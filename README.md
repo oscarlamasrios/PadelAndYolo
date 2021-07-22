@@ -1,9 +1,6 @@
-**Project Info** 
-Final Project of my Computer Science Degree.
+**Final Project of my Computer Science Degree**
 
-Title: 
-
-Statistics obtention and visualization system based on padel videos.
+Title: "Statistics obtention and visualization system based on padel videos."
 
 Abstract:
 
@@ -14,6 +11,7 @@ and easily consulted.
  - PDF: oral presentation and full memory documents. 
  - Some example graphics
  - Necessary config Yolo files.
+ - Example coordenates files.
  - Main code file (deteccion_yolo.py)
 
 **Command format** 
