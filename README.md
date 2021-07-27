@@ -10,7 +10,8 @@ and easily consulted.
 **Files**
  - PDF: oral presentation and full memory documents. 
  - Some example graphics
- - Necessary config Yolo files.
+ - Necessary config Yolo files. Download the weights file here:
+   https://mega.nz/file/MABXXQaQ#Yvbv8X2_EFo6vMtMit6ndP5jfyzbz4peiCCC-7p1_vY
  - Example coordenates files.
  - Example video here:
    https://mega.nz/file/ZcoHjSpS#rkqiHFB-JR4K5iYFCQfGGu_XIoln9qhOZGVJtXo24tM
