@@ -12,6 +12,8 @@ and easily consulted.
  - Some example graphics
  - Necessary config Yolo files.
  - Example coordenates files.
+ - Example video here:
+   https://mega.nz/file/ZcoHjSpS#rkqiHFB-JR4K5iYFCQfGGu_XIoln9qhOZGVJtXo24tM
  - Main code file (deteccion_yolo.py)
 
 **Command format** 
