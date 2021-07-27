@@ -18,7 +18,7 @@ and easily consulted.
 
 **Command format** 
 
-python deteccion_yolo.py --video videos/ejemplo_video.mp4
+python deteccion_yolo.py --video ejemplo_video.mp4
 
 
  
